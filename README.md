@@ -8,3 +8,11 @@ At the moment, I am looking for my first job as a Developer, so here you can fin
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Garrido-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/juanp-garrido/)](https://www.linkedin.com/in/juanp-garrido/) 
 [![Twitter Badge](http://img.shields.io/badge/-@g8juan-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/g8juan)](https://twitter.com/g8juan) [![GitHub followers](https://img.shields.io/github/followers/g8juan?label=Follow&style=social)](https://github.com/g8juan/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/g8juan-blue?style=social&logo=Instagram&link=https://www.instagram.com/g8juan/)](https://www.instagram.com/g8juan/) 
+
+```javascript
+const juan = {
+  languages: [Javascript, HTML, CSS],
+  tools: [React, Redux, Recoil, Node, Express, SQL, PostgreSQL, MongoDB, Firebase, Webpack, Passport, Docker],
+  education: "Plataforma 5 Coding Bootcamp: Completed 800 hours in 3 months of technical programming practices, including team projects, challenges and a professional project."
+}
+```
